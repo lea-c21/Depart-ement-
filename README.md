@@ -1,4 +1,4 @@
-# Mon Départ(ement) 🗺️
+# Mon Départ(ement) 
 
 A web application to help people choose where to live in France 
 by exploring socio-economic and cultural data by department.
